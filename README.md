@@ -1,2 +1,3 @@
 #!/bin/bash
-Added 0-iam_betty file to change user
+## 0-iam_betty
+This script switches the current user to the user `betty`.
