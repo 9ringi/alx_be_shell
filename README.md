@@ -7,3 +7,6 @@ this script creates an empty file called hello
 this script identify the user
 #####5-execute
 this script adds execute permission to the owner of the file hello
+######6-multiple_permissions
+this script gives x to owner and x to group owner and r to users in hello
+
