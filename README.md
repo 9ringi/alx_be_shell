@@ -1,3 +1,4 @@
+#!/bin/bash
 # alx_be_shell
 sandbox
 # shell_permissions
